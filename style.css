@@ -1,0 +1,23 @@
+body
+{
+    font-family: "Oswald" , sans-serif;
+}
+header
+{
+    background-image: linear-gradient(90deg, #235740, #acffc6 ,#22533e);
+}
+.navbar-brand,
+.text-primary
+{
+    color:#08291b !important;
+}
+
+.green-bg
+{
+    background-color: #083a25;
+    color: azure;
+}
+.btn-bg{
+    background-color: aliceblue;
+    color: #083a25;
+}
